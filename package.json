@@ -1,0 +1,37 @@
+{
+  "name": "beautiful-dracula",
+  "displayName": "Beautiful Dracula",
+  "description": "Yet another base on Dracula Official Theme fork, but better (in my opinion)",
+  "publisher": "NguyenHoangLam",
+  "license": "MIT",
+  "author": {
+    "name": "Nguyen Hoang Lam"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "keywords": [
+    "dracula",
+    "beautiful dracula",
+    "dark",
+    "dracula theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lamhoang1256/beautiful-dracula"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Beautiful Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Beautiful Dracula-color-theme.json"
+      }
+    ]
+  }
+}
