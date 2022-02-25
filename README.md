@@ -5,9 +5,11 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 > This Theme based on [dracula-official](https://github.com/dracula/dracula-theme)
 
 ## Demo
-![html](https://user-images.githubusercontent.com/61537853/155530540-8863dbd3-8a55-4c17-9dfb-e08bc6304254.png)
-![css](https://user-images.githubusercontent.com/61537853/155530558-a0c61d30-ff0a-4583-973a-e12099d72943.png)
-![js](https://user-images.githubusercontent.com/61537853/155530566-0ea41b97-77ce-4e67-8f12-759da381352e.png)
+
+![reactjs](https://user-images.githubusercontent.com/61537853/155652532-2c3b489f-46a7-4372-999e-323fa0b2d400.png)
+![html](https://user-images.githubusercontent.com/61537853/155652544-2e23b9c5-fefc-48ff-81f4-41bf2e9a93c7.png)
+![css](ht![js](https://user-images.githubusercontent.com/61537853/155652556-fedbb5c7-d464-4686-97fb-4ecf4b6fde7e.png)
+![js](https://user-images.githubusercontent.com/61537853/155652571-741a360a-57b5-4393-a225-cc5e3d5d3fc0.png)
 
 ## Installation
 
