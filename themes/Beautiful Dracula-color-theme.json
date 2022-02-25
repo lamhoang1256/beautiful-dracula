@@ -1482,6 +1482,12 @@
       "settings": {
         "foreground": "#ff5f70"
       }
+    },
+    {
+      "scope": "variable.scss",
+      "settings": {
+        "foreground": "#3d6ef7"
+      }
     }
   ]
 }
