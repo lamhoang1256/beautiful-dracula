@@ -1458,7 +1458,7 @@
       }
     },
     {
-      "scope": ["entity.name.class.js"],
+      "scope": ["entity.name.class.js", "variable.other.property.js", "support.variable.property"],
       "settings": {
         "foreground": "#2cccff"
       }
@@ -1471,29 +1471,16 @@
       }
     },
     {
-      "scope": "variable.other.readwrite.js",
+      "scope": ["variable.other.readwrite.js", "constant", "support.constant"],
       "settings": {
         // "foreground": "#c297ff"
         "foreground": "#bd93f9"
       }
     },
     {
-      "scope": "constant",
-      "settings": {
-        // "foreground": "#b67fff"
-        "foreground": "#4472f1"
-      }
-    },
-    {
       "scope": "variable.parameter",
       "settings": {
         "foreground": "#ff5f70"
-      }
-    },
-    {
-      "scope": "constant",
-      "settings": {
-        "foreground": "#3d6ef7"
       }
     }
   ]
