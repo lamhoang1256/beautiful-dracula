@@ -4,10 +4,6 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 > This Theme based on [dracula-official](https://github.com/dracula/dracula-theme)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-
 ## Demo
 
 ![reactjs](https://user-images.githubusercontent.com/61537853/155701359-4d3f67bf-1b76-4eaa-9ecc-5d37b4ecc414.png)

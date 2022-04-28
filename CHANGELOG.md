@@ -1,9 +1,10 @@
-# Change Log
+# Beautiful Dracula Changelog
 
-All notable changes to the "beautiful-dracula" extension will be documented in this file.
+## 0.0.7
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Update 4 color scheme :
 
-## [Unreleased]
-
-- Initial release
+- Beautiful Dracula Normal (update better color)
+- Beautiful Dracula Normal - No Highlight (new)
+- Beautiful Dracula Darker (new)
+- Beautiful Dracula Darker - No Highlight (new)

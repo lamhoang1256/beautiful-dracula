@@ -7,7 +7,7 @@
   "author": {
     "name": "Nguyen Hoang Lam"
   },
-  "version": "0.0.5",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -28,9 +28,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Beautiful Dracula",
+        "label": "Beautiful Dracula Normal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Beautiful Dracula-color-theme.json"
+        "path": "./themes/Dracula-normal.json"
+      },
+      {
+        "label": "Beautiful Dracula Normal - No Highlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-normal-no-sematic.json"
+      },
+      {
+        "label": "Beautiful Dracula Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-darker.json"
+      },
+      {
+        "label": "Beautiful Dracula Darker - No Highlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-darker-no-sematic.json"
       }
     ]
   }
