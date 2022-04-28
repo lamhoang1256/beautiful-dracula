@@ -1,4 +1,4 @@
-# Beautiful Dracula Theme for Visual Studio Code
+# Beautiful Dracula Theme for Visual Studio Code 😍
 
 Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
@@ -45,4 +45,4 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 I use [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
-## Thank you for installing and using my theme ❤️.
+## Thank you for installing and using my theme ❤️
