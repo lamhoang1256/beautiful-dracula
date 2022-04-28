@@ -44,3 +44,5 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 ## Font I'm using
 
 I use [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+
+## Thank you for installing and using my theme ❤️.
