@@ -8,6 +8,7 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 ![html](https://user-images.githubusercontent.com/61537853/165689100-fd333ebe-0ca4-4951-b9de-8f015161ccc2.png)
 ![js](https://user-images.githubusercontent.com/61537853/165689256-97696ae0-b322-4ace-94ac-57a814bb929d.png)
 ![html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/html.png)
+![review-samantic-highlight](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-samantic-highlight.png)
 
 ## Demo
 
