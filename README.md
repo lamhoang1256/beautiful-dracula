@@ -10,8 +10,16 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 # Some of images
 
+### JAVASCRIPT
+
 ![review-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-javascript.png)
+
+### SASS
+
 ![review-sass](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-sass.png)
+
+### HTML
+
 ![review-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-html.png)
 
 # Samantic Syntax Highlight
