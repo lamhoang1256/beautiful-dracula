@@ -6,14 +6,13 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 ![normal-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-html.png)
 ![normal-css](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-css.png)
-![normal-js](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-js.png)
+![normal-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-javascript.png)
 
 ![review-samantic-highlight](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-samantic-highlight.png)
 
-![darker-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/html.png)
-![darker-css](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/css.png)
-![normal-js](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/js.png)
-
+![darker-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/darker-html.png)
+![darker-css](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/darker-css.png)
+![normal-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/darker-javascript.png)
 
 ## Installation
 
