@@ -38,7 +38,7 @@
     "editor.selectionBackground": "#44475a",
     "editor.selectionHighlightBackground": "#424450",
     "editor.snippetFinalTabstopHighlightBackground": "#282a36",
-    "editor.snippetFinalTabstopHighlightBorder": "#20E3B2",
+    "editor.snippetFinalTabstopHighlightBorder": "#20E3B1",
     "editor.snippetTabstopHighlightBackground": "#282a36",
     "editor.snippetTabstopHighlightBorder": "#6272a4",
     "editor.wordHighlightBackground": "#8be9fd50",
@@ -61,7 +61,7 @@
     "editorMarkerNavigation.background": "#21222c",
     "editorOverviewRuler.addedForeground": "#50fa7b80",
     "editorOverviewRuler.border": "#191a21",
-    "editorOverviewRuler.currentContentForeground": "#20E3B2",
+    "editorOverviewRuler.currentContentForeground": "#20E3B1",
     "editorOverviewRuler.deletedForeground": "#ff555580",
     "editorOverviewRuler.errorForeground": "#ff555580",
     "editorOverviewRuler.incomingContentForeground": "#ac72ff",
@@ -70,7 +70,7 @@
     "editorOverviewRuler.selectionHighlightForeground": "#ffb86c",
     "editorOverviewRuler.warningForeground": "#ffb86c80",
     "editorOverviewRuler.wordHighlightForeground": "#8be9fd",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#20E3B2",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#20E3B1",
     "editorRuler.foreground": "#ffffff1a",
     "editorSuggestWidget.background": "#21222c",
     "editorSuggestWidget.foreground": "#f8f8f2",
@@ -88,7 +88,7 @@
     "gitDecoration.deletedResourceForeground": "#ff5555",
     "gitDecoration.ignoredResourceForeground": "#6272a4",
     "gitDecoration.modifiedResourceForeground": "#8be9fd",
-    "gitDecoration.untrackedResourceForeground": "#20E3B2",
+    "gitDecoration.untrackedResourceForeground": "#20E3B1",
     "input.background": "#282a36",
     "input.border": "#191a21",
     "input.foreground": "#f8f8f2",
@@ -171,13 +171,13 @@
     "terminal.ansiBrightBlack": "#ff2ced",
     "terminal.ansiBrightBlue": "#ac72ff",
     "terminal.ansiBrightCyan": "#2cccff",
-    "terminal.ansiBrightGreen": "#20E3B2",
+    "terminal.ansiBrightGreen": "#20E3B1",
     "terminal.ansiBrightMagenta": "#ff6bcb",
     "terminal.ansiBrightRed": "#ff6e6e",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#EAC394",
     "terminal.ansiCyan": "#8be9fd",
-    "terminal.ansiGreen": "#20e3b2",
+    "terminal.ansiGreen": "#20E3B1",
     "terminal.ansiMagenta": "#ff6bcb",
     "terminal.ansiRed": "#ff5555",
     "terminal.ansiWhite": "#f8f8f2",
@@ -224,7 +224,7 @@
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -305,7 +305,7 @@
     {
       "scope": ["markup.inline.raw", "markup.raw.restructuredtext"],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -345,7 +345,7 @@
         "markup.fenced_code.block.markdown punctuation.definition.markdown"
       ],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -472,7 +472,7 @@
     {
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#20E3B2",
+        "foreground": "#20E3B1",
         "fontStyle": "italic"
       }
     },
@@ -489,7 +489,7 @@
         "keyword.operator.function.infix"
       ],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -512,14 +512,14 @@
         "meta.decorator variable.other.property"
       ],
       "settings": {
-        "foreground": "#20E3B2",
+        "foreground": "#20E3B1",
         "fontStyle": "italic"
       }
     },
     {
       "scope": ["meta.decorator variable.other.object"],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "scope": ["variable.other.alias.yaml"],
       "settings": {
-        "foreground": "#20E3B2",
+        "foreground": "#20E3B1",
         "fontStyle": "italic underline"
       }
     },
@@ -759,7 +759,7 @@
     {
       "scope": ["meta.assertion.look-ahead.regexp"],
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {
@@ -916,7 +916,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#20E3B2",
+        "foreground": "#20E3B1",
         "fontStyle": ""
       }
     },
@@ -1047,7 +1047,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#20E3B2",
+        "foreground": "#20E3B1",
         "fontStyle": "regular"
       }
     },
@@ -1127,7 +1127,7 @@
     {
       "scope": "variable.scss",
       "settings": {
-        "foreground": "#20E3B2"
+        "foreground": "#20E3B1"
       }
     },
     {

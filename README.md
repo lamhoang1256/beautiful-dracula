@@ -4,15 +4,11 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 > This Theme based on [dracula-official](https://github.com/dracula/dracula-theme)
 
-# Beautiful Dracula Normal
+# Demo
 
-![normal-css](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-css.png)
-![normal-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/normal/normal-javascript.png)
-
-# Beautiful Dracula Darker
-
-![darker-css](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/darker-css.png)
-![normal-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/darker/darker-javascript.png)
+![review-sass](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-sass.png)
+![review-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-html.png)
+![review-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-javascript.png)
 
 # Samantic Highlight
 
