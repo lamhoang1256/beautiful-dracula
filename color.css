@@ -6,32 +6,57 @@
   font-weight: 400;
 }
 .mtk3,
+.mtk5,
 .mtk10,
 .mtk15,
 .mtk16,
-.mtk23,
-.mtk24 {
-  color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent;
+.mtk17,
+.mtk18 {
   font-weight: 800;
 }
 .mtk3 {
-  background-image: linear-gradient(45deg, #d66efd, #6a5af9);
+  color: transparent;
+  background-image: linear-gradient(45deg, #c29ffd 50%, #ffb5dc);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk5 {
+  color: transparent;
+  background-image: linear-gradient(45deg, #20e3b2 35%, #2cccff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 .mtk10,
 .mtk15 {
-  background-image: linear-gradient(135deg, #fe3282, #fe2df4);
+  font-weight: 800;
+  color: transparent;
+  background-image: linear-gradient(to right top, #fc6c8f, #ff2ced);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .mtk16 {
-  background-image: linear-gradient(to left, #56ccf2, #2f80ed);
+  color: transparent;
+  background-image: linear-gradient(45deg, #9a86fd, #6a5af9);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
-.mtk23 {
-  background-image: linear-gradient(to right top, #c29ffd, #ffb4dc, #fef0d1);
+.mtk17 {
+  color: transparent;
+  background-image: linear-gradient(45deg, #0c97fa, #16e1f5);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
-.mtk24 {
-  background-image: linear-gradient(to right bottom, #fc6c8f, #ffb86c);
+.mtk18 {
+  color: transparent;
+  background-image: linear-gradient(90deg, #82aaff 50%, #3d6ef7);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 /* Custom for border left change tab file, extension, debug ... */
 .monaco-workbench
