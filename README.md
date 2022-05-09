@@ -12,19 +12,19 @@ Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
 ### JAVASCRIPT
 
-![review-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-javascript.png)
+![review-javascript](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/main/screenshots/review-javascript.png)
 
 ### SASS
 
-![review-sass](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-sass.png)
+![review-sass](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/main/screenshots/review-sass.png)
 
 ### HTML
 
-![review-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-html.png)
+![review-html](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/main/screenshots/review-html.png)
 
 # Samantic Syntax Highlight
 
-![review-samantic-highlight](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/master/screenshots/review-semantic-highlight.png)
+![review-samantic-highlight](https://raw.githubusercontent.com/lamhoang1256/beautiful-dracula/main/screenshots/review-semantic-highlight.png)
 
 ## Installation
 
