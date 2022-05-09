@@ -1132,7 +1132,7 @@
       }
     },
     {
-      "scope": "variable.other.readwrite.js",
+      "scope": ["variable.other.readwrite.js", "support.constant.property"],
       "settings": {
         "foreground": "#ff9686"
       }

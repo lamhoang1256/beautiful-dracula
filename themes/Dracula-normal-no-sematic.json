@@ -1125,13 +1125,11 @@
       }
     },
     {
-      "scope": "variable.scss",
-      "settings": {
-        "foreground": "#FF9E95"
-      }
-    },
-    {
-      "scope": "variable.other.readwrite.js",
+      "scope": [
+        "variable.scss",
+        "variable.other.readwrite.js",
+        "variable.other.object.property.js"
+      ],
       "settings": {
         "foreground": "#FF9E95"
       }
