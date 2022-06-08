@@ -1,5 +1,11 @@
 # Beautiful Dracula Changelog
 
+## 0.1.0
+Version 0.0.9 (Before Update)
+![version009](https://user-images.githubusercontent.com/61537853/172650508-b9c92db4-79c7-47cd-85e4-91a21f0bbef4.png)
+Version 0.1.0 (Before Update)
+![version010](https://user-images.githubusercontent.com/61537853/172650540-76c4de56-ffe8-4b33-95ae-4f079d00acea.png)
+
 ## 0.0.9
 
 Version 0.0.8 (Before Update)
