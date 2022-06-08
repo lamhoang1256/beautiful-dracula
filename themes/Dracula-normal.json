@@ -1119,7 +1119,7 @@
       }
     },
     {
-      "scope": ["support.constant.property", "support.variable.js"],
+      "scope": ["support.constant.property", "support.variable.js", "support.function"],
       "settings": {
         "foreground": "#ffabd8"
       }
@@ -1128,6 +1128,12 @@
       "scope": ["variable.scss", "variable.other.readwrite.js", "support.constant.property"],
       "settings": {
         "foreground": "#FF9E95"
+      }
+    },
+    {
+      "scope": ["variable.parameter", "support.variable"],
+      "settings": {
+        "foreground": "#ff6188"
       }
     }
   ]

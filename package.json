@@ -7,15 +7,17 @@
   "author": {
     "name": "Nguyen Hoang Lam"
   },
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.64.0"
   },
   "keywords": [
     "dracula",
     "beautiful dracula",
-    "dark",
-    "dracula theme"
+    "dracula theme",
+    "theme dracula",
+    "theme",
+    "dark"
   ],
   "categories": [
     "Themes"

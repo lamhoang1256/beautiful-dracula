@@ -1120,19 +1120,27 @@
       }
     },
     {
-      "scope": ["support.constant.property", "support.variable.js"],
+      "scope": ["support.constant.property", "support.variable.js", "support.function"],
       "settings": {
         "foreground": "#ffabd8"
       }
     },
     {
-      "scope": [
-        "variable.scss",
-        "variable.other.readwrite.js",
-        "variable.other.object.property.js"
-      ],
+      "scope": "variable.scss",
       "settings": {
         "foreground": "#ff9686"
+      }
+    },
+    {
+      "scope": ["variable.other.readwrite.js", "support.constant.property"],
+      "settings": {
+        "foreground": "#ff9686"
+      }
+    },
+    {
+      "scope": ["variable.parameter", "support.variable"],
+      "settings": {
+        "foreground": "#9CDCFE"
       }
     }
   ]
