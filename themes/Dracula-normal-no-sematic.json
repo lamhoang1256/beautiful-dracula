@@ -206,7 +206,7 @@
     {
       "scope": ["header"],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -281,7 +281,7 @@
     {
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#b98aff",
+        "foreground": "#c299ff",
         "fontStyle": "bold"
       }
     },
@@ -351,7 +351,7 @@
     {
       "scope": ["punctuation.definition.constant.restructuredtext"],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -360,7 +360,7 @@
         "markup.heading.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -398,7 +398,7 @@
         "variable.parameter.function.language.special"
       ],
       "settings": {
-        "foreground": "#b98aff",
+        "foreground": "#c299ff",
         "fontStyle": "italic"
       }
     },
@@ -448,7 +448,7 @@
     {
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -549,7 +549,7 @@
     {
       "scope": ["support.function.magic", "support.variable", "variable.other.predefined"],
       "settings": {
-        "foreground": "#b98aff",
+        "foreground": "#c299ff",
         "fontStyle": "regular"
       }
     },
@@ -868,13 +868,13 @@
     {
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
       "scope": ["support.constant"],
       "settings": {
-        "foreground": "#b98aff",
+        "foreground": "#c299ff",
         "fontStyle": "normal"
       }
     },
@@ -1001,7 +1001,7 @@
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -1022,7 +1022,7 @@
         "entity.name.function.scss"
       ],
       "settings": {
-        "foreground": "#b98aff"
+        "foreground": "#c299ff"
       }
     },
     {
@@ -1114,12 +1114,17 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#b98aff",
+        "foreground": "#c299ff",
         "fontStyle": ""
       }
     },
     {
-      "scope": ["support.constant.property", "support.variable.js", "support.function"],
+      "scope": [
+        "support.constant.property",
+        "support.variable.js",
+        "support.function",
+        "variable.other.property"
+      ],
       "settings": {
         "foreground": "#ffabd8"
       }
