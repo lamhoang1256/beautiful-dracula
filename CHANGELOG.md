@@ -1,5 +1,6 @@
 # Beautiful Dracula Changelog
 
+<<<<<<< HEAD
 ## 0.1.1
 
 Version 0.1.0 (Before Update)
@@ -10,6 +11,9 @@ Optimize color text purple #b98aff -> #c299ff
 
 ## 0.1.0
 
+=======
+## 0.1.0
+>>>>>>> 6004ec7df9aadeed36e2b6ca1b4abe49fdfa6905
 Version 0.0.9 (Before Update)
 ![version009](https://user-images.githubusercontent.com/61537853/172650508-b9c92db4-79c7-47cd-85e4-91a21f0bbef4.png)
 Version 0.1.0 (After Update)
