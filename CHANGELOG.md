@@ -1,5 +1,9 @@
 # Beautiful Dracula Changelog
 
+## 0.1.3
+
+Remove vsmarketplacebadge README.md
+
 ## 0.1.1
 
 Version 0.1.0 (Before Update)

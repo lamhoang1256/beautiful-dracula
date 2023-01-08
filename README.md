@@ -2,10 +2,6 @@
 
 Yet another base on Dracula Official Theme fork, but better (in my opinion)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/nguyenhoanglam.beautiful-dracula.svg)](https://marketplace.visualstudio.com/items?itemName=NguyenHoangLam.beautiful-dracula)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/nguyenhoanglam.beautiful-dracula.svg)](https://marketplace.visualstudio.com/items?itemName=NguyenHoangLam.beautiful-dracula)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/nguyenhoanglam.beautiful-dracula.svg)](https://marketplace.visualstudio.com/items?itemName=NguyenHoangLam.beautiful-dracula)
-
 > My theme based on [dracula-official](https://github.com/dracula/dracula-theme) and [evondev-dracula](https://github.com/evondev/evondev-dracula)
 
 # Some of images
