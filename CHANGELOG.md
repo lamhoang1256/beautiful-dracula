@@ -1,5 +1,10 @@
 # Beautiful Dracula Changelog
 
+## 0.1.4
+
+Fix issue: [Highlight for keywords modifiers](https://github.com/lamhoang1256/beautiful-dracula/issues/2)
+![version-0.1.4](https://user-images.githubusercontent.com/61537853/230753096-447484ee-3f43-407b-b10c-7dc8a4427f2c.jpg)
+
 ## 0.1.3
 
 Remove vsmarketplacebadge README.md

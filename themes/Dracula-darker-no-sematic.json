@@ -705,12 +705,6 @@
       }
     },
     {
-      "scope": ["storage.modifier"],
-      "settings": {
-        "foreground": "#ffabd8"
-      }
-    },
-    {
       "scope": [
         "string.regexp",
         "constant.other.character-class.set.regexp",
@@ -1042,7 +1036,6 @@
         "variable.other.property.js",
         "variable.other.property.ts",
         "variable.other.property.tsx",
-        "storage.modifier.ts",
         "variable.other.property.static.js",
         "string.unquoted.js",
         "meta.object-literal.key"
